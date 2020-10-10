@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="borderCircle">#4847C4F4</color>
+    <color name="backgroundCircle">#21B8F3</color>
+    <color name="textColor_item_layout_selected">#6f6f6f</color>
+    <color name="blue">#0066cc</color>
+    <color name="gold">#e6b121</color>
+    <color name="grey">#cccccc</color>
+</resources>
